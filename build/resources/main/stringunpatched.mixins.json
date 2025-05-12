@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "je.mods.stringunpatched.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "stringunpatched.refmap.json",
+  "mixins": [
+    "MixinMain"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

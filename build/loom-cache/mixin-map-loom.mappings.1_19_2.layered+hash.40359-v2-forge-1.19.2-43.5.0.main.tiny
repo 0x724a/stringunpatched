@@ -1,0 +1,3 @@
+v1	named	intermediary
+METHOD	je/mods/stringunpatched/mixin/MixinMain	(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;ZZZZ)V	emitState	m_222602_
+METHOD	je/mods/stringunpatched/mixin/MixinMain	(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;)V	notifyNeighbors	m_57693_

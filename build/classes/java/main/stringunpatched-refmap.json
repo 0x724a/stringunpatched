@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "je/mods/stringunpatched/mixin/MixinMain": {
+      "calculateState": "Lnet/minecraft/world/level/block/TripWireHookBlock;m_57685_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;ZZILnet/minecraft/world/level/block/state/BlockState;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "je/mods/stringunpatched/mixin/MixinMain": {
+        "calculateState": "Lnet/minecraft/world/level/block/TripWireHookBlock;m_57685_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;ZZILnet/minecraft/world/level/block/state/BlockState;)V"
+      }
+    }
+  }
+}

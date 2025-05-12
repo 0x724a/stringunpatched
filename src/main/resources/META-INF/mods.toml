@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+#issueTrackerURL = ""
+license = "LGPL-3.0"
+
+[[mods]]
+modId = "stringunpatched"
+version = "${version}"
+displayName = "Forge String Unpatched - Auto String Duper and Powered Permanent String"
+authors = "r_Jerry_"
+description = '''
+反Forge线补丁 Unpatched String
+该版本适用于 Only run as 1.19.2
+'''
+#logoFile = ""
+
+[[dependencies.stringunpatched]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.stringunpatched]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19.2,1.19.3)"
+ordering = "NONE"
+side = "BOTH"

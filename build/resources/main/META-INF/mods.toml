@@ -9,9 +9,8 @@ version = "1.0.0"
 displayName = "Forge String Unpatched - Auto String Duper and Powered Permanent String"
 authors = "r_Jerry_"
 description = '''
-刷线小鬼和伪生电玩家的救星。
-Save All 'FAKE Survival Redstone or Technical Player'
-该版本适用于 1.18.2
+反Forge线补丁 Unpatched String
+该版本适用于 Only run as 1.18.2
 '''
 #logoFile = ""
 

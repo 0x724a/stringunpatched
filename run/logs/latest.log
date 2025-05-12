@@ -1,18 +1,88 @@
-[20:46:53] [main/INFO] (Launcher) ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.19.2-1.19, --assetsDir, C:\Users\Jerry\.gradle\caches\fabric-loom\assets, --gameDir, ., --fml.forgeVersion, 43.0.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, -mixin.config, stringunpatched.mixins.json]
-[20:46:53] [main/INFO] (Launcher) ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.6 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
-[20:46:53] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Jerry/.gradle/caches/modules-2/files-2.1/dev.architectury/mixin-patched/0.8.5.12/cf1f787f58d3b08b0cb53ecbba7928c09a1893c8/mixin-patched-0.8.5.12.jar%23122!/ Service=ModLauncher Env=CLIENT
-[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.19.2-43.0.0\c6efbab858c4ea7edf074355e098e81ada2b336d\javafmllanguage-1.19.2-43.0.0.jar is missing mods.toml file
-[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.19.2-43.0.0\fbd9e3cbd819a75d7bc09632c2073bdc24294b29\lowcodelanguage-1.19.2-43.0.0.jar is missing mods.toml file
-[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.19.2-43.0.0\db7bd38c45e542b37b428af009f9d911dbb2665f\mclanguage-1.19.2-43.0.0.jar is missing mods.toml file
-[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.19.2-43.0.0\a1f9441a4b3a8494318646c573536cf13a8abb43\fmlcore-1.19.2-43.0.0.jar is missing mods.toml file
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file javafmllanguage-1.19.2-43.0.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file lowcodelanguage-1.19.2-43.0.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file mclanguage-1.19.2-43.0.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file fmlcore-1.19.2-43.0.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file forge-1.19.2-43.0.0-minecraft-merged-1.19.2-loom.mappings.1_19_2.layered+hash.40359-v2-forge-1.19.2-43.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file main of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:53] [main/INFO] (ModDiscoverer) Found mod file  of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
-[20:46:54] [main/INFO] (JarInJarDependencyLocator) No dependencies to load found. Skipping!
-[20:46:55] [main/INFO] (mixin) Compatibility level set to JAVA_17
-[20:46:55] [main/INFO] (LaunchServiceHandler) Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Jerry\.gradle\caches\fabric-loom\assets, --assetIndex, 1.19.2-1.19]
-[20:46:55] [main/INFO] (unprotect) Found 6851 Minecraft classes
+[00:07:56] [main/INFO] (Launcher) ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.18.2-1.18, --assetsDir, C:\Users\Jerry\.gradle\caches\fabric-loom\assets, --gameDir, ., --fml.forgeVersion, 40.3.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, -mixin.config, stringunpatched.mixins.json]
+[00:07:56] [main/INFO] (Launcher) ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.6 by Oracle Corporation
+[00:07:56] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Jerry/.gradle/caches/modules-2/files-2.1/dev.architectury/mixin-patched/0.8.5.12/cf1f787f58d3b08b0cb53ecbba7928c09a1893c8/mixin-patched-0.8.5.12.jar%2319!/ Service=ModLauncher Env=CLIENT
+[00:07:56] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.18.2-40.3.0\a1a361bd6b2c3f4b12e4793bf39d9b655c3dadab\javafmllanguage-1.18.2-40.3.0.jar is missing mods.toml file
+[00:07:56] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.18.2-40.3.0\aae72bcbbb6766a45b0416eb302d82c109581436\lowcodelanguage-1.18.2-40.3.0.jar is missing mods.toml file
+[00:07:56] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.18.2-40.3.0\e9215bd3137c1ae4b2c3655947757e1d899ea57d\mclanguage-1.18.2-40.3.0.jar is missing mods.toml file
+[00:07:56] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.18.2-40.3.0\ed12aee1393d7eaa1d9249bc8b22bdb9de67a93b\fmlcore-1.18.2-40.3.0.jar is missing mods.toml file
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file javafmllanguage-1.18.2-40.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file lowcodelanguage-1.18.2-40.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file mclanguage-1.18.2-40.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file fmlcore-1.18.2-40.3.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file forge-1.18.2-40.3.0-minecraft-merged-1.18.2-loom.mappings.1_18_2.layered+hash.40359-v2-forge-1.18.2-40.3.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file main of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (ModDiscoverer) Found mod file  of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6f0ca692
+[00:07:56] [main/INFO] (JarInJarDependencyLocator) No dependencies to load found. Skipping!
+[00:07:58] [main/INFO] (mixin) Compatibility level set to JAVA_17
+[00:07:58] [main/INFO] (LaunchServiceHandler) Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Jerry\.gradle\caches\fabric-loom\assets, --assetIndex, 1.18.2-1.18]
+[00:07:58] [main/INFO] (unprotect) Found 6391 Minecraft classes
+[00:08:08] [Render thread/WARN] (Minecraft) Assets URL 'union:/C:/Users/Jerry/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/forge-1.18.2-40.3.0-minecraft-merged/1.18.2-loom.mappings.1_18_2.layered+hash.40359-v2-forge-1.18.2-40.3.0/forge-1.18.2-40.3.0-minecraft-merged-1.18.2-loom.mappings.1_18_2.layered+hash.40359-v2-forge-1.18.2-40.3.0.jar%2373!/assets/.mcassetsroot' uses unexpected schema
+[00:08:08] [Render thread/WARN] (Minecraft) Assets URL 'union:/C:/Users/Jerry/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/forge-1.18.2-40.3.0-minecraft-merged/1.18.2-loom.mappings.1_18_2.layered+hash.40359-v2-forge-1.18.2-40.3.0/forge-1.18.2-40.3.0-minecraft-merged-1.18.2-loom.mappings.1_18_2.layered+hash.40359-v2-forge-1.18.2-40.3.0.jar%2373!/data/.mcassetsroot' uses unexpected schema
+[00:08:08] [Render thread/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:08:08] [Render thread/INFO] (Minecraft) Setting user: Dev
+[00:08:08] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.2+13
+[00:08:13] [modloading-worker-0/INFO] (ForgeMod) Forge mod loading, version 40.3.0, for MC 1.18.2 with MCP 20220404.173914
+[00:08:13] [modloading-worker-0/INFO] (MinecraftForge) MinecraftForge v40.3.0 Initialized
+[00:08:17] [Render thread/INFO] (Minecraft) Narrator library for x64 successfully loaded
+[00:08:17] [Render thread/INFO] (ForgeGameTestHooks) Enabled Gametest Namespaces: []
+[00:08:18] [Render thread/INFO] (Minecraft) Reloading ResourceManager: Default, Mod Resources
+[00:08:21] [Forge Version Check/INFO] (VersionChecker) [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[00:08:22] [Forge Version Check/INFO] (VersionChecker) [forge] Found status: UP_TO_DATE Current: 40.3.0 Target: null
+[00:08:34] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on 扬声器 (Realtek(R) Audio)
+[00:08:34] [Render thread/INFO] (Minecraft) Sound engine started
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[00:08:34] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[00:08:35] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[00:08:35] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[00:08:35] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[00:08:37] [Realms Notification Availability checker #1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[00:08:39] [Render thread/INFO] (GameData) Injecting existing registry data into this CLIENT instance
+[00:08:40] [Render thread/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:08:40] [Render thread/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:08:40] [Render thread/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:08:40] [Render thread/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:08:40] [Render thread/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:08:44] [Render thread/INFO] (Minecraft) Loaded 7 recipes
+[00:08:46] [Render thread/INFO] (Minecraft) Loaded 1141 advancements
+[00:08:46] [Render thread/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:08:46] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.18.2
+[00:08:46] [Server thread/INFO] (Minecraft) Generating keypair
+[00:08:46] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[00:08:47] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[00:08:47] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[00:08:47] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[00:08:48] [Render thread/INFO] (Minecraft) Preparing spawn area: 8%
+[00:08:48] [Render thread/INFO] (Minecraft) Preparing spawn area: 79%
+[00:08:48] [Server thread/INFO] (PermissionAPI) Successfully initialized permission handler forge:default_handler
+[00:08:48] [Render thread/INFO] (Minecraft) Time elapsed: 2160 ms
+[00:08:48] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[00:08:48] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[00:08:49] [Render thread/WARN] (SystemPropertyUtil) Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[00:08:50] [Netty Local Client IO #0/INFO] (NetworkHooks) Connected to a modded server.
+[00:08:50] [Server thread/INFO] (AdvancementLoadFix) Using new advancement loading for net.minecraft.server.PlayerAdvancements@2af5f3b7
+[00:08:50] [Server thread/INFO] (Minecraft) Dev[local:E:c8dcc0ee] logged in with entity id 84 at (0.2580473546536488, -57.88349863207186, -10.876158159280347)
+[00:08:50] [Server thread/INFO] (Minecraft) Dev joined the game
+[00:08:51] [Render thread/INFO] (Minecraft) Loaded 24 advancements
+[00:08:59] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[00:08:59] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[t]'/minecraft:overworld
+[00:08:59] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[t]'/minecraft:the_end
+[00:08:59] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[t]'/minecraft:the_nether
+[00:09:00] [Server thread/INFO] (Minecraft) Dev lost connection: Disconnected
+[00:09:00] [Server thread/INFO] (Minecraft) Dev left the game
+[00:09:00] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[00:09:00] [Server thread/INFO] (Minecraft) Stopping server
+[00:09:00] [Server thread/INFO] (Minecraft) Saving players
+[00:09:00] [Server thread/INFO] (Minecraft) Saving worlds
+[00:09:00] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[t]'/minecraft:overworld
+[00:09:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[t]'/minecraft:the_end
+[00:09:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[t]'/minecraft:the_nether
+[00:09:01] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (t): All chunks are saved
+[00:09:01] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:01] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:01] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[00:09:02] [Render thread/INFO] (Minecraft) Stopping!

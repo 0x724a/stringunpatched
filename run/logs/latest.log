@@ -1,0 +1,18 @@
+[20:46:53] [main/INFO] (Launcher) ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 1.19.2-1.19, --assetsDir, C:\Users\Jerry\.gradle\caches\fabric-loom\assets, --gameDir, ., --fml.forgeVersion, 43.0.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, -mixin.config, stringunpatched.mixins.json]
+[20:46:53] [main/INFO] (Launcher) ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.6 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[20:46:53] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Jerry/.gradle/caches/modules-2/files-2.1/dev.architectury/mixin-patched/0.8.5.12/cf1f787f58d3b08b0cb53ecbba7928c09a1893c8/mixin-patched-0.8.5.12.jar%23122!/ Service=ModLauncher Env=CLIENT
+[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.19.2-43.0.0\c6efbab858c4ea7edf074355e098e81ada2b336d\javafmllanguage-1.19.2-43.0.0.jar is missing mods.toml file
+[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.19.2-43.0.0\fbd9e3cbd819a75d7bc09632c2073bdc24294b29\lowcodelanguage-1.19.2-43.0.0.jar is missing mods.toml file
+[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.19.2-43.0.0\db7bd38c45e542b37b428af009f9d911dbb2665f\mclanguage-1.19.2-43.0.0.jar is missing mods.toml file
+[20:46:53] [main/WARN] (ModFileParser) Mod file C:\Users\Jerry\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.19.2-43.0.0\a1f9441a4b3a8494318646c573536cf13a8abb43\fmlcore-1.19.2-43.0.0.jar is missing mods.toml file
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file javafmllanguage-1.19.2-43.0.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file lowcodelanguage-1.19.2-43.0.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file mclanguage-1.19.2-43.0.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file fmlcore-1.19.2-43.0.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file forge-1.19.2-43.0.0-minecraft-merged-1.19.2-loom.mappings.1_19_2.layered+hash.40359-v2-forge-1.19.2-43.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file main of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:53] [main/INFO] (ModDiscoverer) Found mod file  of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3bde62ff
+[20:46:54] [main/INFO] (JarInJarDependencyLocator) No dependencies to load found. Skipping!
+[20:46:55] [main/INFO] (mixin) Compatibility level set to JAVA_17
+[20:46:55] [main/INFO] (LaunchServiceHandler) Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\Jerry\.gradle\caches\fabric-loom\assets, --assetIndex, 1.19.2-1.19]
+[20:46:55] [main/INFO] (unprotect) Found 6851 Minecraft classes

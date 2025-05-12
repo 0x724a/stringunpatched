@@ -1,0 +1,30 @@
+modLoader = "javafml"
+loaderVersion = "[30,)"
+#issueTrackerURL = ""
+license = "LGPL-3.0"
+
+[[mods]]
+modId = "stringunpatched"
+version = "1.0.0"
+displayName = "Forge String Unpatched - Auto String Duper and Powered Permanent String"
+authors = "r_Jerry_"
+description = '''
+刷线小鬼和伪生电玩家的救星。
+Save All 'FAKE Survival Redstone or Technical Player'
+该版本适用于 1.18.2
+'''
+#logoFile = ""
+
+[[dependencies.stringunpatched]]
+modId = "forge"
+mandatory = true
+versionRange = "[30,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.stringunpatched]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.17,1.20)"
+ordering = "NONE"
+side = "BOTH"

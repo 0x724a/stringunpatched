@@ -1,0 +1,29 @@
+{
+  "required": false,
+  "package": "je.mods.stringunpatched.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "MixinMain"
+  ],
+  "injectors": {
+    "defaultRequire": 1,
+    "maxShiftBy": 5,
+    "defaultGroup": "default",
+    "injectionPoints": []
+  },
+  "overwrites": {
+    "conformVisibility": false,
+    "requireAnnotations": true
+  },
+  "parent": "",
+  "mixinPriority": -1,
+  "server": [],
+  "setSourceFile": false,
+  "priority": -1,
+  "refmap": "",
+  "target": "",
+  "verbose": false
+}
